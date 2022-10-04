@@ -1,3 +1,3 @@
 # Bioinformatics-crash-course
 
-Based on the assignment created by Caroline Labelle from the Université de Montréal
+Based on the assignments created by Caroline Labelle and Sylvain Lemieux from the Université de Montréal
